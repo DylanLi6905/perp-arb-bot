@@ -1,0 +1,17 @@
+rpcs:
+  arbitrum: "https://arb-mainnet.g.alchemy.com/v2/YvL99Rav44IbM8VNHebqasOfrciB4FJq"
+  avalanche: "https://api.avax.network/ext/bc/C/rpc"
+
+chain_ids:
+  arbitrum: 42161
+  avalanche: 43114
+
+gmx:
+  datastore_address: "0xFD70de6b91282D8017aA4E741e9Ae325CAb992d8"
+  rpc_url: "https://arb1.arbitrum.io/rpc"
+  markets:
+    eth: "0x32a8aC6F2fA3b8EfaDCD796FbD84a37c29F7cC30"
+    btc: "0x1a5F8D32989cb755B56A19eFBf47EADb9C7999F4"
+
+private_key: "YOUR_WALLET_PRIVATE_KEY"   # Keep this safe! Do not share.
+user_wallet_address: "YOUR_WALLET_ADDRESS"
